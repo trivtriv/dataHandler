@@ -1,0 +1,15 @@
+{
+    "port": 8083,
+    "workersNum": 1,
+    "pendingQueue": {
+        "host": "localhost",
+        "port": 8082
+    },
+    "db": {
+        "host": "localhost",
+        "port": 3306,
+        "user"    : "admin",
+        "password" : "B1@blabla",
+        "database" : "hotels",
+    }
+}
