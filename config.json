@@ -10,6 +10,6 @@
         "port": 3306,
         "user"    : "admin",
         "password" : "B1@blabla",
-        "database" : "hotels",
+        "database" : "hotels"
     }
 }
